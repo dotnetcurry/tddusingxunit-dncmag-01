@@ -3,6 +3,6 @@ bin
 obj
 packages
 *.suo
-*.csproj
+*.user
 # mstest test results
 TestResults
